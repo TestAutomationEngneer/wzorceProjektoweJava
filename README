@@ -1,0 +1,12 @@
+
+1. Strategia
+Wybranie metody płatności :
+1. PayPal- gdzie trzeba podać email i password
+2. Credit card - gdzie trzeba podać numer karty, cvv i expiry date
+        na podstawie wyboru usera po dokonaniu zakupów.
+
+2. Decorator
+Kawiarnia - moge kupić dowlną kawę z róznymi wieloma dodatkami.
+Musi obliczyć koszt napoju - kawa + dodatki
+
+Znany przykład dekoratora to klasa w Java - InputStream
