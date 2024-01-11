@@ -1,6 +1,6 @@
 package Decorator.abstrakcja;
 
-public abstract class SkladnikDekorator extends Napoj{
+public abstract class SkladnikDekorator extends Napoj {
 
     public Napoj napoj;
 
